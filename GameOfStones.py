@@ -1,5 +1,6 @@
 '''
-GAME OF STONES:
+Game theory -  easy
+GAME OF STONES - HackerRank
 
 Two players called P1 and P2 are playing a game with a starting number of stones.
 Player 1 always plays first, and the two players move in alternating turns.
